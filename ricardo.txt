@@ -1,0 +1,6 @@
+
+URL  tualacena ala mano
+http://18.189.195.66:8080/tualacenaalamano-0.0.2-SNAPSHOT/listausuarios.jsp
+
+Tombcat
+http://18.189.195.66:8080/manager/html
